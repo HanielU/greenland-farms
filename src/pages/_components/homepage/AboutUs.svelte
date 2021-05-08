@@ -20,7 +20,7 @@
 
 		<div class="img-section">
 			<div class="img-wrapper">
-				<!-- <img src="imgs/farmer-img.jpg" alt="Farmer" /> -->
+				<!-- <img src="./imgs/farmer-img.jpg" alt="Farmer" /> -->
 			</div>
 		</div>
 	</div>
@@ -78,7 +78,7 @@
 		width: 100%;
 		border-radius: 50%;
 		overflow: hidden;
-		background-image: url(imgs/farmer-img.jpg);
+		background-image: url(./imgs/farmer-img.jpg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;

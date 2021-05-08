@@ -29,7 +29,7 @@
 				rgba(0, 0, 0, 0.45),
 				rgba(0, 0, 0, 0.45)
 			),
-			url(imgs/cover-img.jpg);
+			url(./imgs/cover-img.jpg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
