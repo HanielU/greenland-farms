@@ -78,7 +78,7 @@
 		width: 100%;
 		border-radius: 50%;
 		overflow: hidden;
-		background-image: url(./imgs/farmer-img.jpg);
+		background-image: url(../imgs/farmer-img.jpg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
