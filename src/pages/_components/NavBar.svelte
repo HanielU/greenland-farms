@@ -25,7 +25,7 @@
 <nav class:open={navOpen}>
 	<div class="logo">
 		<a href="/index" use:$url on:click={toggleNav}>
-			<img src="imgs/logo.jpg" alt="Greenland Farms Logo" />
+			<img src="./imgs/logo.jpg" alt="Greenland Farms Logo" />
 		</a>
 	</div>
 
