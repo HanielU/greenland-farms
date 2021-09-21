@@ -19,14 +19,14 @@ body {
 }
 
 /* Used to make the auto placed div wrapper behave like body tag */
-#routify-app {
+/* #routify-app {
 	height: 100%;
 	width: 100%;
 	position: fixed;
 	top: 0;
 	left: 0;
 	overflow-y: auto;
-}
+} */
 
 :root {
 	--line-height: 1.6;

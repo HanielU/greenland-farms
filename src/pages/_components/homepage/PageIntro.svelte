@@ -13,7 +13,7 @@
 		align-items: center;
 		padding: 0 100px;
 		margin-bottom: 50px;
-		background-image: url(../imgs/hero-bg.jpg);
+		background-image: url(/imgs/hero-bg.jpg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
